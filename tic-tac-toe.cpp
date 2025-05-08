@@ -58,6 +58,7 @@ int main() {
 
   int turn = 1;
 
+  clear();
   while (turn < 10) {
     print_board(board);
 
